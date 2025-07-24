@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล :ชยณัฐ หงษ์หนึ่ง
 
-GitHub Page URL :
+GitHub Page URL :https://cpe207-2568.github.io/lab07v2-MorohaZ/
 
 ---
 
